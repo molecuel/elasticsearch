@@ -1,11 +1,7 @@
-'use strict';
-import 'reflect-metadata';
-import should = require('should');
-import assert = require('assert');
-import {di, injectable} from '@molecuel/di';
-import {Subject, Observable} from '@reactivex/rxjs';
-should();
+"use strict";
+import "reflect-metadata";
+import * as should from "should";
 
-describe('<%= name %>', function() {
+describe("molecuel/elasticsearch", function() {
 
 }); // test end
